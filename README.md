@@ -1,2 +1,3 @@
 # bookbot
-This is my project for the Boot.dev backend course. It's a python based book bot.
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
